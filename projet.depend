@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1588801514 source:c:\codebloks\projrt_huffman\tekuphuffmancoding\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ExtractCellList.h"
+	"siwar.h"
+
+1588800909 c:\codebloks\projrt_huffman\tekuphuffmancoding\extractcelllist.h
+
+1588800909 source:c:\codebloks\projrt_huffman\tekuphuffmancoding\extractcelllist.c
+	<stdio.h>
+	<stdlib.h>
+	"ExtractCellList.h"
+
+1588801646 c:\codebloks\projrt_huffman\tekuphuffmancoding\siwar.h
+

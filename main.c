@@ -2,6 +2,7 @@
 #include <stdlib.h>
 #include<string.h>
 #include "ExtractCellList.h"
+#include "siwar.h"
 
 //
 // Created by mzoghlami & sgaddour on 02/05/2020.
@@ -22,7 +23,7 @@ void displayCellList(Cell *CellList) {
 
 int main() {
 
-    int test = 0;
+
     //CHAINE DE CHARACTERE A UTILISER
     char str[] = "satisfaisant";
 
