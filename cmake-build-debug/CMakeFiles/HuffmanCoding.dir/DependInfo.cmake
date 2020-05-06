@@ -4,6 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
+  "C:/Users/mzoghlami/CLionProjects/HuffmanCoding/ExtractCellList.c" "C:/Users/mzoghlami/CLionProjects/HuffmanCoding/cmake-build-debug/CMakeFiles/HuffmanCoding.dir/ExtractCellList.c.obj"
   "C:/Users/mzoghlami/CLionProjects/HuffmanCoding/main.c" "C:/Users/mzoghlami/CLionProjects/HuffmanCoding/cmake-build-debug/CMakeFiles/HuffmanCoding.dir/main.c.obj"
   )
 set(CMAKE_C_COMPILER_ID "GNU")

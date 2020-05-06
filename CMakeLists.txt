@@ -3,4 +3,4 @@ project(HuffmanCoding C)
 
 set(CMAKE_C_STANDARD 99)
 
-add_executable(HuffmanCoding main.c)
+add_executable(HuffmanCoding main.c ExtractCellList.c ExtractCellList.h)

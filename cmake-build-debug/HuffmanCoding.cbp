@@ -74,6 +74,12 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="C:/Users/mzoghlami/CLionProjects/HuffmanCoding/ExtractCellList.c">
+			<Option target="HuffmanCoding"/>
+		</Unit>
+		<Unit filename="C:/Users/mzoghlami/CLionProjects/HuffmanCoding/ExtractCellList.h">
+			<Option target="HuffmanCoding"/>
+		</Unit>
 		<Unit filename="C:/Users/mzoghlami/CLionProjects/HuffmanCoding/main.c">
 			<Option target="HuffmanCoding"/>
 		</Unit>

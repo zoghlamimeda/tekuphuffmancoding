@@ -122,6 +122,33 @@ HuffmanCoding/fast:
 	$(MAKE) -f CMakeFiles\HuffmanCoding.dir\build.make CMakeFiles/HuffmanCoding.dir/build
 .PHONY : HuffmanCoding/fast
 
+ExtractCellList.obj: ExtractCellList.c.obj
+
+.PHONY : ExtractCellList.obj
+
+# target to build an object file
+ExtractCellList.c.obj:
+	$(MAKE) -f CMakeFiles\HuffmanCoding.dir\build.make CMakeFiles/HuffmanCoding.dir/ExtractCellList.c.obj
+.PHONY : ExtractCellList.c.obj
+
+ExtractCellList.i: ExtractCellList.c.i
+
+.PHONY : ExtractCellList.i
+
+# target to preprocess a source file
+ExtractCellList.c.i:
+	$(MAKE) -f CMakeFiles\HuffmanCoding.dir\build.make CMakeFiles/HuffmanCoding.dir/ExtractCellList.c.i
+.PHONY : ExtractCellList.c.i
+
+ExtractCellList.s: ExtractCellList.c.s
+
+.PHONY : ExtractCellList.s
+
+# target to generate assembly for a file
+ExtractCellList.c.s:
+	$(MAKE) -f CMakeFiles\HuffmanCoding.dir\build.make CMakeFiles/HuffmanCoding.dir/ExtractCellList.c.s
+.PHONY : ExtractCellList.c.s
+
 main.obj: main.c.obj
 
 .PHONY : main.obj
@@ -158,6 +185,9 @@ help:
 	@echo ... HuffmanCoding
 	@echo ... edit_cache
 	@echo ... rebuild_cache
+	@echo ... ExtractCellList.obj
+	@echo ... ExtractCellList.i
+	@echo ... ExtractCellList.s
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s

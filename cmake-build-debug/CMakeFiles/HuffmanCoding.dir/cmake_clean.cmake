@@ -1,4 +1,5 @@
 file(REMOVE_RECURSE
+  "CMakeFiles/HuffmanCoding.dir/ExtractCellList.c.obj"
   "CMakeFiles/HuffmanCoding.dir/main.c.obj"
   "HuffmanCoding.exe"
   "HuffmanCoding.exe.manifest"
