@@ -3,7 +3,7 @@
 #include<string.h>
 
 //
-// Created by mzoghlami on 02/05/2020.
+// Created by mzoghlami & sgaddour on 02/05/2020.
 //
 
 typedef struct cell {
@@ -16,13 +16,9 @@ typedef struct cell {
     struct cell *suiv;
 } Cell;
 
-//Cell *extractLinkedList(char *str){
-//  Cell *ListeChainee = NULL;
-    /*
-     * stuff to do
-     */
-//  return ListeChainee;
-//}
+/*
+ * started merging stuff
+ */
 
 
 void displayCellList(Cell *CellList) {
@@ -107,6 +103,7 @@ return Liste;
 }
 int main() {
 
+    int test = 0;
     //CHAINE DE CHARACTERE A UTILISER
     char str[] = "satisfaisant";
 
